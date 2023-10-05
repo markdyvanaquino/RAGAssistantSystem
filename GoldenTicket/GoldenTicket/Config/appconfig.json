@@ -1,0 +1,10 @@
+{
+  "AppConfig": {
+    "OpenAISettings": {
+      "BaseUrl": "https://models.inference.ai.azure.com/",
+      "ChatbotID": 100000001,
+      "Temperature": 0.4,
+      "MaxOutputTokenCount": 2048
+    }
+  }
+}

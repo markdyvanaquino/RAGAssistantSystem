@@ -1,0 +1,16 @@
+{
+    "Tags": {
+        "Status": ["Open", "In Progress", "Postponed", "Closed", "Unresolved"],
+        "Priority": ["High", "Medium", "Low"],
+        "Actions": ["Created", "Assigned", "Re-Assigned", "In Progress", "Postponed", "Closed", "Unresolved", "Re-opened", "Title", "MainTag", "SubTag", "Priority"],
+        "Notification": ["Ticket", "Chatroom", "Rating", "Tag", "General"],
+        "Roles": ["Admin", "Staff", "Employee"],
+        "MainTags": ["Some Parent Tag"],
+        "SubTags": [
+            {
+                "Name": "Some MainTag",
+                "Parent": 1
+            }
+        ]
+    }
+}

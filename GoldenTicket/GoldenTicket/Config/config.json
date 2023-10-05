@@ -1,0 +1,14 @@
+{
+    "restrictedWords": {
+      "Profanity": ["fuck", "shit", "bitch", "asshole", "cunt", "dick", "motherfucker", "fucker"],
+      "Sexual": ["porn", "nude", "blowjob", "sex", "anal", "vagina", "dildo", "cumshot", "milf", "dick"],
+      "HateSpeech": ["nigger", "faggot", "dyke", "kike", "chink", "spic", "retard", "tranny"],
+      "Violence": ["kill", "bomb", "murder", "genocide", "terrorist", "shoot", "execute"],
+      "Drugs": ["cocaine", "meth", "lsd", "weed", "marijuana", "heroin", "mdma"],
+      "Crime": ["hack", "crack", "ddos", "exploit", "fraud", "keylogger"],
+      "PII": ["email", "password", "credit card", "ssn", "bank account", "phone number"],
+      "Scam": ["lottery", "click here", "free money", "bitcoin wallet", "gift card"],
+      "Phishing": ["verify your account", "reset password", "bank login"]
+    }
+  }
+  
